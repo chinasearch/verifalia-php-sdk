@@ -1,5 +1,5 @@
 {
-    "name": "verifalia/sdk",
+    "name": "chinasearch/verifalia-php-sdk",
     "description": "Verifalia REST API - PHP SDK and helper library for email validation",
     "homepage": "https://verifalia.com",
     "keywords": ["verifalia", "email", "validation", "verification", "free", "service", "saas", "list", "hygiene", "cleaning", "mx", "smtp", "mailbox", "scrub"],
