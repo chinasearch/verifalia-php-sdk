@@ -39,7 +39,7 @@ namespace Verifalia\EmailValidations {
 				}
 			}
 	
-			sleep($delay);
+			sleep((int)$delay);
 		}
 	}
 }
