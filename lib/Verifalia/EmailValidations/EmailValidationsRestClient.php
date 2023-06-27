@@ -232,7 +232,7 @@ namespace Verifalia\EmailValidations {
 				return json_decode($body)->data;
 			}
 
-			throw new VerifaliaError("Unexpected HTTP response: ${statusCode} ${body}");
+			throw new VerifaliaError("Unexpected HTTP response: $statusCode $body");
 		}
 
 		/** 
